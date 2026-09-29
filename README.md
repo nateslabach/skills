@@ -27,7 +27,12 @@ npx skills add nateslabach/skills --skill <skill-name>
 | [model-bench](./skills/model-bench) | 3-leg launch-day eval: trap questions, orchestration with a planted failure, brownfield build (leg 1 answer key private — ask on X/LinkedIn) | Agents |
 | [create-issue](./skills/create-issue) | Crafts actionable GitHub issues from bug reports and feature requests | Workflow |
 | [vibe-audit](./skills/vibe-audit) | 20-point code quality audit for codebases that were shipped fast and need hardening | Code Quality |
-| [code-review](./skills/code-review) | Structured 3-phase code review: intent, issues by severity, and adversarial stress-testing | Code Quality |
+| [code-review](./skills/code-review) | Structured 3-phase peer review of a diff/PR: intent, issues by severity, merge questions, verdict | Code Quality |
+| [ai-systems-review](./skills/ai-systems-review) | Hostile self-review of AI workflow code that then applies the top fixes | Code Quality |
+| [adversarial-challenge](./skills/adversarial-challenge) | Devil's-advocate threat model and hypothetical redesigns for AI workflows — no file edits | Code Quality |
+| [openrouter](./skills/openrouter) | OpenRouter models, auto/free routers, structured outputs, batch API, and live catalog scripts | Agents |
+| [branding](./skills/branding) | Brand identity prompts: salient idea, signature slogan/story/symbol/surprise | Marketing |
+| [deep-research](./skills/deep-research) | Multi-source cited research reports from web and news | Workflow |
 | [prisma](./skills/prisma) | TypeScript and Prisma ORM best practices for schema design, type-safe queries, migrations, and error handling | Backend |
 | [react-component](./skills/react-component) | Generates self-contained React/TypeScript components with Tailwind, accessibility, and no placeholders | Frontend |
 | [depth-ui](./skills/depth-ui) | Layered color + shadow principles for polished UIs in light and dark themes | UI / Design |
