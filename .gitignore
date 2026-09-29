@@ -1,6 +1,15 @@
 .aider*
 .DS_Store
 
+# Local Cursor symlink / IDE noise (skills live in skills/)
+.cursor/
+
+# Engagement/project context — not part of the published skills pack
+AGENTS.md
+
+# Dependency installs under skill script packs
+**/node_modules/
+
 # model-bench: never publish gold answers
 skills/model-bench/grading/answer-key.local.md
 **/model-bench/**/answer-key.local.md
