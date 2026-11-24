@@ -12,7 +12,6 @@ Pairs with **just-stop**: this skill keeps you looping until DoD passes; just-st
 ## When to use
 
 - User names this skill (`mini-loop`)
-- User says exactly: `run a loop`
 - Any use case with verifiable exit criteria: greenfield apps, features, refactors, docs, scripts, migrations
 
 ## Core principles
