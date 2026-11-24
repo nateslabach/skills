@@ -33,6 +33,7 @@ npx skills add nateslabach/skills --skill <skill-name>
 | [openrouter](./skills/openrouter) | OpenRouter models, auto/free routers, structured outputs, batch API, and live catalog scripts | Agents |
 | [branding](./skills/branding) | Brand identity prompts: salient idea, signature slogan/story/symbol/surprise | Marketing |
 | [deep-research](./skills/deep-research) | Multi-source cited research reports from web and news | Workflow |
+| [synthesize](./skills/synthesize) | Turns many sources into one sourced conclusion about what they mean together, not a summary | Workflow |
 | [prisma](./skills/prisma) | TypeScript and Prisma ORM best practices for schema design, type-safe queries, migrations, and error handling | Backend |
 | [react-component](./skills/react-component) | Generates self-contained React/TypeScript components with Tailwind, accessibility, and no placeholders | Frontend |
 | [depth-ui](./skills/depth-ui) | Layered color + shadow principles for polished UIs in light and dark themes | UI / Design |
